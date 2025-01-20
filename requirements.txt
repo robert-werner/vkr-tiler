@@ -1,0 +1,7 @@
+rq
+rasterio[s3]
+s3fs
+s2reader3
+rio-tiler[xarray]
+eoreader
+dask[dataframe,distributed]
