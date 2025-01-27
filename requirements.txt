@@ -1,7 +1,9 @@
 rq
 rasterio[s3]
-s3fs
+fsspec
 s2reader3
 rio-tiler[xarray]
 eoreader
-dask[dataframe,distributed]
+nox
+black
+python-decouple
