@@ -9,3 +9,4 @@ WORKDIR /opt/vkr-tiler
 
 RUN pip install --no-cache-dir -e .
 
+ENTRYPOINT /opt/vkr-tiler/scripts/exec_service.sh
