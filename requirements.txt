@@ -6,3 +6,4 @@ eoreader
 nox
 black
 python-decouple
+pyarrow
