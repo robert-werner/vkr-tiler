@@ -1,8 +1,7 @@
 rq
-rasterio[s3]
+rasterio
 fsspec
-s2reader3
-rio-tiler[xarray]
+rio-tiler
 eoreader
 nox
 black

@@ -6,3 +6,5 @@ build
 data
 environment.yml
 activate_env.sh
+.venv
+exec_job.py
